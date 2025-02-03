@@ -1,0 +1,42 @@
+Problem Statement:
+
+1.Develop an application to accept a number and count no., of digits in it.
+2. Develop an application to accept a number and reverse it N  times and print the number after N th time
+3. Develop an application to find the sum of N numbers.
+4. Develop an application to find a sqrt of the given number.
+5. Develop an application to accept the cost price of a book and if  books are sold with 20% loss
+ find the selling price and total sale of the same.
+
+6. Develop an application to print the followingon the console.
+Name:Sachin Tendulkar
+Speciality:"Master Blaster"
+Adress:Hno:'15-56/253'
+       Manikonda,
+       Ranga Reddy'district'
+       Ts-50032
+
+&. Develop the following app
+  -----------Welcome to Hotel Ashoka-------------
+1.Idly(2.00)
+2.Dosa(2.50)
+3.Puri(2.75)                 Please Pay amount 11.00
+4.Vada(3.00)                   --Thank you Visit again--
+5.Upma(2.25)
+Enter the dish code:3
+How many plates you want:4
+
+
+
+
+A)Develop an application to store N no.,of cities into an array and find out the vowel count in each city
+
+B) Develop an application to store 6 sub student marks and find out the students passed or not.
+  if passed,find he is in FIRST or SECOND or THIRD division 
+    FIRST - 80-100 percent
+    SECOND -60 - 79 percent
+    THIRD- 40-59 percent
+    FAILED- Less than 40 
+
+C) There are Some N no of oil pots with some amount of oil in each pot and you will fill each pot for five times with same amount of oil
+(Say 4 ml or 8 ml) and remove a pot,if the amount of oil in a pot is equals to pouring amountand if a pot is removed,then shift other pots
+on the left side. finally print the pots available with amounts of oil in them.
