@@ -1,0 +1,32 @@
+Problem Statement: (Application to make use of Static,nonStatic ,Constructors)
+-> Assume that as a developer you need develop an application for an ABC bank to provide bank account for their customers.
+-> Each account should have the details like: actno,holdername,amount,ageof/holder,rateofintrest,bankname,accountStatus.
+_create a business method that can generate N no of accounts objects and return as a n array based on request for N accounts
+
+Points to Consider:
+!.Every account will have same bank Name
+2.Rate of intrest for each account is based on age of account holder
+-16>age<25::2 percent ROi
+-25<age>50 ::3 percent roi
+-Age>50:: 4 percent Roi
+
+->
+Develp an application for a company called ford and it wants to produces bikes for 
+its distributors and based on the request form distributors for N bikes,you need to generate N bike objects and return to distributor.
+->Create a bike class properties::PlateNo,Barand,Type,Price,Owner.
+->add the required static and non static blocks and constructors in the class.
+_> add an Operational method that can generate N bike objects and return as an array,on the requested no., of bikes.
+
+Points to Consider :- _Brand is same for all bikes[i.e ford
+there should be two bikes
+
+-> Create a card class with properties cardnum, cardtype,cardname,cardexpirydate
+
+
+//add constructor
+//add setters and getters
+
+//add BM for purchases and update creditlimit
+//add BM for displaying available creditlimit
+//add BM for updating reward Points on every purchase
+// add BM for updating reward points on claiming
